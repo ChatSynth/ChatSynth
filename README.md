@@ -93,5 +93,5 @@ If you find ChatSynth useful:
 
 ---
 
-**Empowering Personalized AI Experiences Since 2025**  
+
 _Made with ❤️ by [Vanshaj Raghuvanshi](https://github.com/VanshajR)_
