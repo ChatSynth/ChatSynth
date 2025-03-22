@@ -1,6 +1,6 @@
 # ChatSynth 🤖✨
 
-[![License: BSD-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0)
+[![License: BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatsynth.streamlit.app)
 
@@ -21,6 +21,9 @@ _Create, Customize, and Deploy AI Assistants Powered by Your Data_
 </div>
 
 ---
+
+## 📽️ Demo Video
+![ChatSynthDemo](demo.gif)
 
 ## 🛠️ How It Works
 
